@@ -16,7 +16,7 @@ You can download our precomputed disparity predictions from the following links:
 
 | Training modality | `.npy` filesize | Eigen disparities                                                                             |
 |-------------------|-----------------|-----------------------------------------------------------------------------------------------|
-| +F                |                 | [Download 🔗]()           |
-| +OM               |                 | [Download 🔗]()         |
-| +OM+F             |                 | [Download 🔗](https://drive.google.com/open?id=1O0UfvSNgvC-eeu5l3YLK8qJJgTP2W47l)  |
+| +F                | 326MB           | [Download](https://drive.google.com/open?id=1Omyf7eKD6M_1o1-mTlqXvEfSfeM8PAyw)           |
+| +OM               | 326MB           | [Download](https://drive.google.com/open?id=1pTVGIIp4qfQolFRcDNNJ3xtEQDEO-b6q)         |
+| +OM+F             | 326MB           | [Download](https://drive.google.com/open?id=1O0UfvSNgvC-eeu5l3YLK8qJJgTP2W47l)  |
 
